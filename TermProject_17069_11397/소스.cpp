@@ -15,7 +15,7 @@ vector<SolidSphere> spheres;
 Light* light;
 
 void init() {
-	light = new Light(boundaryX, boundaryY, boundaryX / 2, GL_LIGHT0);
+	//light = new Light(boundaryX, boundaryY, boundaryX / 2, GL_LIGHT0);
 	light->setAmbient(0.5, 0.5, 0.5, 1.0);
 	light->setDiffuse(0.7, 0.7, 0.7, 1.0);
 	light->setSpecular(1.0, 1.0, 1.0, 1.0);
