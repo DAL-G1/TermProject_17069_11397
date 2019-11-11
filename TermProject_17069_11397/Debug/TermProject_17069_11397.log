@@ -1,0 +1,11 @@
+﻿  Light.cpp
+  Material.cpp
+  SolidShape3D.cpp
+  SolidSphere.cpp
+  Vector3.cpp
+  소스.cpp
+C:\Users\nompp\source\repos\TermProject_17069_11397\TermProject_17069_11397\소스.cpp(41,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\nompp\source\repos\TermProject_17069_11397\TermProject_17069_11397\소스.cpp(42,25): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+C:\Users\nompp\source\repos\TermProject_17069_11397\TermProject_17069_11397\소스.cpp(47,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  TermProject_17069_11397.vcxproj -> C:\Users\nompp\source\repos\TermProject_17069_11397\Debug\TermProject_17069_11397.exe
